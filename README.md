@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EyaArfa
+- 👋 Hi, I’m @AyaArfa
 - 👀 I’m interested in programming and software development 
 - 🌱 I’m currently a software engineering student 
 - 📫 this is my email to contact me arfaaya0@gmail.com
